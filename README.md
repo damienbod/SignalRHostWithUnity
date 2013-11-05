@@ -1,2 +1,2 @@
-SignalRHostWithUnity
-====================
+SignalRMessaging
+================
